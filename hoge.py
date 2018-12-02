@@ -3,3 +3,6 @@ def sum(a, b):
 
 def is_even(n):
     return (n % 2 == 0)
+
+result = sum(2,3)
+print(result)
