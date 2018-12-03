@@ -6,3 +6,6 @@ def is_even(n):
 
 result = sum(2,3)
 print(result)
+
+result_is_even = is_even(2)
+print(result_is_even)
